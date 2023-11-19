@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mustafa</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
 
-- 🔭 I’m currently working on [Rabh Project](https://play.google.com/store/apps/details?id=com.alrabh.rabh)
-
-- 🌱 I’m currently learning **Qt**
+- 🔭 I’m currently working on [Expandium (a VIAVI Solutions company)]([https://play.google.com/store/apps/details?id=com.alrabh.rabh](https://www.linkedin.com/company/expandium/mycompany/))
 
 - 📫 How to reach me **mohamedmoustafaa1998@gmail.com**
 
